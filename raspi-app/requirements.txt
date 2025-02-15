@@ -1,0 +1,15 @@
+certifi==2025.1.31
+charset-normalizer==3.4.1
+colorzero==2.0
+gpiozero==2.0.1
+idna==3.10
+lgpio==0.2.2.0
+numpy==2.2.2
+pigpio==1.78
+pillow==11.1.0
+pisugar==0.1.1
+pytz==2025.1
+requests==2.32.3
+RPi.GPIO==0.7.1
+spidev==3.6
+urllib3==2.3.0
