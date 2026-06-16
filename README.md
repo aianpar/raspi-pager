@@ -1,7 +1,6 @@
 # raspi-pager
 Raspi-Pager is a lightweight notification system using a Raspberry Pi with an e-ink display.
 
-<img src="image.jpg" width="400">
 
 ## Inspired pwnagotchi hardware:
 - Raspberry Pi zero2
